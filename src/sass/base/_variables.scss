@@ -1,0 +1,26 @@
+// ==============================
+// Colors
+// ==============================
+$color-primary: rgba(45, 45, 45, 0.25);
+$color-secondary: rgb(45, 45, 45);
+$color-black: #000000;
+$color-white: #fff;
+
+// =============================================
+// Fonts
+// =============================================
+$font-primary: 'Calibri', sans-serif;
+$font-secondary: 'Segoe UI', sans-serif;
+$font-conte: 'Conte\' Script reduced';
+
+// ============================================
+// Breakpoints
+// ============================================
+
+$laptop-land: 75em; //1200px / 16px = 75em
+$laptop-port: 64em; //1024px / 16px = 64em
+$tab-land: 62em; //992px / 16px = 62em
+$tab-port: 48em; //768px / 16px = 48em
+$mbl-land: 35.9375em; //575px / 16px = 35.9375em
+$mbl-port: 30em; //480px / 16px = 30em
+$mbl-small: 23.75em; //380px / 16px = 23.75em
